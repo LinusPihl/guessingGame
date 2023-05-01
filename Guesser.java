@@ -6,6 +6,7 @@ import java.io.Console;
     Here's the unfinished source code
     for the Guesser class. It is your
     task to complete the missing parts.
+    hej
     */
     public class Guesser{
     private int low;
