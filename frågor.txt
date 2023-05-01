@@ -1,0 +1,14 @@
+När använder man add respektive commit?
+add för att lägga till ändringar i projektet
+för att spara ändringar till Git-repository
+
+Vad är pull repektive push?
+pull är för att hämta uppdateringar
+push är för att göra uppdateringar
+
+När använder man log respektive status?
+om man vill se historiken för commits
+
+Hur kan man formulera sig i sina commit-meddelanden?
+kort och beskrivande rubrik
+beskriv varför ändringen gjordes
